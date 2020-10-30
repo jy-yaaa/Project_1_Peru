@@ -1,2 +1,2 @@
 # Project_1_Peru
-ML for Eco
+ML for Econ
